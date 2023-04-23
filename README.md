@@ -8,7 +8,7 @@ To run this project, you will need Node.js installed on your machine. Once Node.
 
 1. Clone the project from the GitHub repository:
 
-
+https://github.com/vanshgulati16/note-taker.git
 
 2. Navigate to the project directory:
 
