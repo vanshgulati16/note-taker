@@ -7,23 +7,23 @@ This project is a simple note-taking app built with React and designed to store 
 To run this project, you will need Node.js installed on your machine. Once Node.js is installed, follow these steps:
 
 1. Clone the project from the GitHub repository:
-
+```
 https://github.com/vanshgulati16/note-taker.git
-
+```
 2. Navigate to the project directory:
-
+```
 cd react-note-taking-app
-
+```
 
 3. Install dependencies:
-
+```
 npm install
-
+```
 
 4. Start the development server:
-
+```
 npm start
-
+```
 
 5. Open your browser and go to http://localhost:3000 to see the app.
 
